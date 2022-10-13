@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RH.Cronometro.Feito.Rafael", "RH.Cronometro.Feito.Rafael\RH.Cronometro.Feito.Rafael.csproj", "{04BD1FE9-37E5-40A4-8D94-E42ED4EE29B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04BD1FE9-37E5-40A4-8D94-E42ED4EE29B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BD1FE9-37E5-40A4-8D94-E42ED4EE29B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BD1FE9-37E5-40A4-8D94-E42ED4EE29B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BD1FE9-37E5-40A4-8D94-E42ED4EE29B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {798D5BC2-3288-44D7-B37D-103BCFD4DCC8}
+	EndGlobalSection
+EndGlobal
